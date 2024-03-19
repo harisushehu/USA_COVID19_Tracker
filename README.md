@@ -9,14 +9,15 @@ This Power BI project provides a comprehensive live tracker for COVID-19 data in
 - **Customizable Dashboards**: Dashboards are designed to be flexible and customizable to cater to different analytical needs and preferences.
 
 ## Screenshots
-<img width="1480" alt="Screenshot 2024-03-19 at 12 52 55" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/6fdda5df-7931-4cc5-82ed-ea31e04c01be">
-<img width="1472" alt="Screenshot 2024-03-19 at 12 52 24" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/78dc381e-4d8b-46a5-8a15-0909a9adec44">
-<img width="1476" alt="Screenshot 2024-03-19 at 12 52 01" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/9fb08527-598a-427a-afbf-18de7a555146">
-<img width="1469" alt="Screenshot 2024-03-19 at 12 51 21" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/e516e37d-18b8-42f0-8c99-33a811d8e5ac">
-<img width="1473" alt="Screenshot 2024-03-19 at 12 51 06" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/0f1d7797-8de0-46ce-b2e3-ed346240ac29">
-<img width="1476" alt="Screenshot 2024-03-19 at 12 50 50" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/d3a3257e-34c7-4c3e-9046-94ec3fa83ca1">
-<img width="1479" alt="Screenshot 2024-03-19 at 12 50 29" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/16da4f38-fa1c-47d1-b025-4b98818750f9">
 <img width="1471" alt="Screenshot 2024-03-19 at 12 49 47" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/5825de92-7a71-4da7-b0ba-24e5df3ffd65">
+<img width="1479" alt="Screenshot 2024-03-19 at 12 50 29" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/16da4f38-fa1c-47d1-b025-4b98818750f9">
+<img width="1476" alt="Screenshot 2024-03-19 at 12 50 50" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/d3a3257e-34c7-4c3e-9046-94ec3fa83ca1">
+<img width="1473" alt="Screenshot 2024-03-19 at 12 51 06" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/0f1d7797-8de0-46ce-b2e3-ed346240ac29">
+<img width="1469" alt="Screenshot 2024-03-19 at 12 51 21" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/e516e37d-18b8-42f0-8c99-33a811d8e5ac">
+<img width="1476" alt="Screenshot 2024-03-19 at 12 52 01" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/9fb08527-598a-427a-afbf-18de7a555146">
+<img width="1472" alt="Screenshot 2024-03-19 at 12 52 24" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/78dc381e-4d8b-46a5-8a15-0909a9adec44">
+<img width="1480" alt="Screenshot 2024-03-19 at 12 52 55" src="https://github.com/harisushehu/USA_COVID19_Tracker/assets/34377892/6fdda5df-7931-4cc5-82ed-ea31e04c01be">
+
 
 ## How to Use
 1. **Download Power BI Desktop**: Ensure you have Power BI Desktop installed on your system.
