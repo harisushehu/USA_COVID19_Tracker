@@ -42,6 +42,5 @@ This Power BI project was created by Harisu Shehu.
 
 Enjoy exploring the USA COVID-19 Tracker!
 
-Harisu Shehu
 
 
